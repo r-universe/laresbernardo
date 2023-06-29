@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/laresbernardo/universe
-	shallow = true
 	branch = HEAD
 [submodule "lares"]
 	path = lares
 	url = https://github.com/laresbernardo/lares
-	shallow = true
-	registered = true
 [submodule "lareshiny"]
 	path = lareshiny
 	url = https://github.com/laresbernardo/lareshiny
-	shallow = true
-	registered = true
