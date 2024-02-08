@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "Robyn"]
 	path = Robyn
-	url = https://github.com/facebookexperimental/Robyn/R
+	url = https://github.com/facebookexperimental/Robyn
+	subdir = R
 [submodule "lares"]
 	path = lares
 	url = https://github.com/laresbernardo/lares
